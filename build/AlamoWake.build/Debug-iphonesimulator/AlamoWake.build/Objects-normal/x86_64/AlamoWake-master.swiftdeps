@@ -1,0 +1,5 @@
+version: "Apple Swift version 4.0.3 (swiftlang-900.0.74.1 clang-900.0.39.2)"
+options: "d14950b07e42e99ec82eebdc844dbde6"
+build_time: [1517938215, 238887000]
+inputs:
+  "/Users/daniel_mora/Documents/xCodeProjects/Frameworks/AlamoWake/AlamoWake/AlamoWake.swift": [1517936693, 0]

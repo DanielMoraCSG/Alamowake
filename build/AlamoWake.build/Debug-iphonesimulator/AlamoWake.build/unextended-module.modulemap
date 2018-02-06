@@ -1,0 +1,10 @@
+framework module AlamoWake {
+  umbrella header "AlamoWake.h"
+
+  export *
+  module * { export * }
+}
+
+module AlamoWake.__Swift {
+    exclude header "AlamoWake-Swift.h"
+}

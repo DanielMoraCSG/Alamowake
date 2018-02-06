@@ -1,0 +1,11 @@
+framework module AlamoWake {
+  umbrella header "AlamoWake.h"
+
+  export *
+  module * { export * }
+}
+
+module AlamoWake.Swift {
+    header "AlamoWake-Swift.h"
+    requires objc
+}

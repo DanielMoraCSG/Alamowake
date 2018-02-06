@@ -1,0 +1,33 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [
+    {
+      'type': 'directory',
+      'name': "/Users/daniel_mora/Library/Developer/Xcode/DerivedData/AlamoWake-gebedixdaqycpufnqujkkupdlojp/Build/Products/Debug-iphonesimulator/AlamoWake.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "AlamoWake-Swift.h",
+          'external-contents': "/Users/daniel_mora/Library/Developer/Xcode/DerivedData/AlamoWake-gebedixdaqycpufnqujkkupdlojp/Build/Products/Debug-iphonesimulator/AlamoWake.framework/Headers/AlamoWake-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "AlamoWake.h",
+          'external-contents': "/Users/daniel_mora/Documents/xCodeProjects/Frameworks/AlamoWake/AlamoWake/AlamoWake.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/daniel_mora/Library/Developer/Xcode/DerivedData/AlamoWake-gebedixdaqycpufnqujkkupdlojp/Build/Products/Debug-iphonesimulator/AlamoWake.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/daniel_mora/Documents/xCodeProjects/Frameworks/AlamoWake/build/AlamoWake.build/Debug-iphonesimulator/AlamoWake.build/module.modulemap"
+        }
+      ]
+    }
+  ]
+}
